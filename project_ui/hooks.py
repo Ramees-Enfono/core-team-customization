@@ -4,6 +4,11 @@ app_publisher = "Ramees"
 app_description = "Showing Reports And Charts inside the project"
 app_email = "ramees@enfono.in"
 app_license = "mit"
+doctype_js = {
+    "Project": "public/js/project.js"
+}
+
+
 
 # Apps
 # ------------------
